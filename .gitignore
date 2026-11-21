@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+celerybeat-schedule*
+
+# Node / frontend
+node_modules/
+dist/
+*.tsbuildinfo
+coverage/
+test-results/
+playwright-report/
+
+# Env & editor
+.env
+.env.local
+.DS_Store
+.idea/
+.vscode/
+*.log
